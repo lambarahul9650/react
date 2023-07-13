@@ -11,8 +11,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          //href="https://intellimis.com"
-          href="https://reactjs.org"
+          href="https://intellimis.com"
+          //href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
